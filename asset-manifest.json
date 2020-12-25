@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/shopping-cart-react/static/js/main.44ea6fc2.chunk.js",
+    "main.js.map": "/shopping-cart-react/static/js/main.44ea6fc2.chunk.js.map",
+    "runtime~main.js": "/shopping-cart-react/static/js/runtime~main.36ec2802.js",
+    "runtime~main.js.map": "/shopping-cart-react/static/js/runtime~main.36ec2802.js.map",
+    "static/js/2.1f7b6fcf.chunk.js": "/shopping-cart-react/static/js/2.1f7b6fcf.chunk.js",
+    "static/js/2.1f7b6fcf.chunk.js.map": "/shopping-cart-react/static/js/2.1f7b6fcf.chunk.js.map",
+    "index.html": "/shopping-cart-react/index.html",
+    "precache-manifest.868f23a417e7ad8c8871af3ef0f4490b.js": "/shopping-cart-react/precache-manifest.868f23a417e7ad8c8871af3ef0f4490b.js",
+    "service-worker.js": "/shopping-cart-react/service-worker.js"
+  }
+}
